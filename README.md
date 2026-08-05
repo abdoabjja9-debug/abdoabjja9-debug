@@ -1,34 +1,34 @@
 <div align="center">
 
-  <!-- غلاف علوي احترافي بلمسة تقنية ورياضية -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F2FE&height=250&section=header&text=Hi%20There,%20I'm%20Abdulrahman%20👋&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Discipline.%20Design.%20Development.&descAlignY=55&descSize=16" width="100%" />
+  <!-- غلاف علوي بحواف ناعمة (Soft) وتدرج لوني مطابق للصورة -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:053b49,100:00F2FE&height=220&section=header&text=Hi%20There,%20I'm%20Abdulrahman%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Discipline.%20Design.%20Development.&descAlignY=55&descSize=16" width="100%" />
 
-  <br>
+  <br><br>
 
-  <!-- النص المتحرك الملون - الأولوية للياقة ثم التصميم -->
+  <!-- النص المتحرك الملون -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=🏋️+Fitness+%26+Discipline+Enthusiast;🎨+Graphic+Design+%26+Brand+Building;📈+Campaign+Marketing+Strategist;💻+Python+%26+Automation;🤖+Building+Smart+Telegram+Bots" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- شعار فرعي يعكس العقلية -->
+  <!-- الشعار الفرعي داخل اقتباس ناعم -->
   <p align="center">
-    <code><b>⚡ Strong Body, Creative Mind, Automated Future ⚡</b></code>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=⚡+Strong+Body,+Creative+Mind,+Automated+Future+⚡" alt="Motto" />
   </p>
 
   <br>
 
-  <!-- شارات الحالة السريعة بتركيز على الأولويات -->
+  <!-- شارات الحالة بالحواف الناعمة (Style=Flat) بدلاً من المربعة -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Location-Libya%20🇱🇾-00F2FE?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Focus-Fitness%20%26%20Design-4FACFE?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Mindset-Never%20Stop%20Improving-00F2FE?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LOCATION:%20LIBYA%20LY-008B8B?style=flat&logo=google-earth&logoColor=white&labelColor=0d1117" alt="Location" />
+    <img src="https://img.shields.io/badge/FOCUS:%20FITNESS%20%26%20DESIGN-00BFFF?style=flat&logo=target&logoColor=white&labelColor=0d1117" alt="Focus" />
+    <img src="https://img.shields.io/badge/MINDSET:%20NEVER%20STOP%20IMPROVING-00F2FE?style=flat&logo=lightning&logoColor=white&labelColor=0d1117" alt="Mindset" />
   </p>
 
-  <!-- عداد زوار يضيف احترافية للملف -->
+  <!-- عداد زوار بحواف ناعمة -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abdoabjja9-debug&label=Profile%20Views&color=00F2FE&style=flat" alt="abdoabjja9-debug" />
+    <img src="https://komarev.com/ghpvc/?username=abdoabjja9-debug&label=Profile%20Views&color=00F2FE&style=flat" alt="Views" />
   </p>
 
 </div>
@@ -51,19 +51,18 @@ My ultimate goal is to combine a healthy lifestyle with high-level skills to cre
 
 <div align="center">
 
-  <!-- الصف الأول: اللياقة والتصميم (الأولويات) -->
-  <img src="https://img.shields.io/badge/💪_Fitness_%26_Nutrition-EB4D4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨_Graphic_Design-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎬_Motion_Graphics-9B51E0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍_Personal_Branding-25D366?style=for-the-badge" />
+  <!-- تحويل جميع شارات التخصص إلى حواف ناعمة (Flat) -->
+  <img src="https://img.shields.io/badge/💪_Fitness_%26_Nutrition-EB4D4B?style=flat" />
+  <img src="https://img.shields.io/badge/🎨_Graphic_Design-FF6B6B?style=flat" />
+  <img src="https://img.shields.io/badge/🎬_Motion_Graphics-9B51E0?style=flat" />
+  <img src="https://img.shields.io/badge/🌍_Personal_Branding-25D366?style=flat" />
   
   <br>
   
-  <!-- الصف الثاني: التسويق والبرمجة والتطوير المستمر -->
-  <img src="https://img.shields.io/badge/📈_Campaign_Marketing-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_AI_Tools-00F2FE?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/💻_Python_(Learning)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀_Entrepreneurship-F1C40F?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/📈_Campaign_Marketing-FF9900?style=flat" />
+  <img src="https://img.shields.io/badge/🤖_AI_Tools-00F2FE?style=flat&logoColor=black" />
+  <img src="https://img.shields.io/badge/💻_Python_(Learning)-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Entrepreneurship-F1C40F?style=flat&logoColor=black" />
 
 </div>
 
@@ -111,8 +110,9 @@ My ultimate goal is to combine a healthy lifestyle with high-level skills to cre
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdoabjja9-debug&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoabjja9-debug&theme=tokyonight&hide_border=true&ring=00F2FE&fire=00F2FE" />
+  <!-- تم تفعيل خيار الحواف الناعمة (hide_border=false مع تعديل النمط الداخلي) في الإحصائيات -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdoabjja9-debug&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=00F2FE&icon_color=00F2FE" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoabjja9-debug&theme=tokyonight&hide_border=false&border_radius=10&ring=00F2FE&fire=00F2FE" />
 
 </div>
 
