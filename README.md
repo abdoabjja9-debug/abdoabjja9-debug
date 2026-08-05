@@ -13,9 +13,7 @@
   <br><br>
 
   <!-- الشعار الفرعي داخل اقتباس ناعم -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=⚡+Strong+Body,+Creative+Mind,+Automated+Future+⚡" alt="Motto" />
-  </p>
+
 
   <br>
 
