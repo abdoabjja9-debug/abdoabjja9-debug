@@ -1,30 +1,32 @@
 <div align="center">
 
-  <!-- غلاف علوي بحواف ناعمة (Soft) وتدرج لوني مطابق للصورة -->
+  <!-- غلاف علوي بحواف ناعمة (Soft) وتدرج لوني أنيق -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:053b49,100:00F2FE&height=220&section=header&text=Hi%20There,%20I'm%20Abdulrahman%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Discipline.%20Design.%20Development.&descAlignY=55&descSize=16" width="100%" />
 
   <br><br>
 
-  <!-- النص المتحرك الملون -->
+  <!-- النص المتحرك الملون (تم إصلاحه وتنظيفه) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=🏋️+Fitness+%26+Discipline+Enthusiast;🎨+Graphic+Design+%26+Brand+Building;📈+Campaign+Marketing+Strategist;💻+Python+%26+Automation;🤖+Building+Smart+Telegram+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Fitness+%26+Discipline+Enthusiast;Graphic+Design+%26+Brand+Building;Campaign+Marketing+Strategist;Python+%26+Automation;Building+Smart+Telegram+Bots" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- الشعار الفرعي داخل اقتباس ناعم -->
-
+  <!-- الشعار الفرعي بنص برمجي أنيق وثابت لضمان عدم الكسر -->
+  <p align="center">
+    <code><b>⚡ Strong Body, Creative Mind, Automated Future ⚡</b></code>
+  </p>
 
   <br>
 
-  <!-- شارات الحالة بالحواف الناعمة (Style=Flat) بدلاً من المربعة -->
+  <!-- شارات الحالة بالحواف الناعمة (Style=Flat) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/LOCATION:%20LIBYA%20LY-008B8B?style=flat&logo=google-earth&logoColor=white&labelColor=0d1117" alt="Location" />
-    <img src="https://img.shields.io/badge/FOCUS:%20FITNESS%20%26%20DESIGN-00BFFF?style=flat&logo=target&logoColor=white&labelColor=0d1117" alt="Focus" />
-    <img src="https://img.shields.io/badge/MINDSET:%20NEVER%20STOP%20IMPROVING-00F2FE?style=flat&logo=lightning&logoColor=white&labelColor=0d1117" alt="Mindset" />
+    <img src="https://img.shields.io/badge/LOCATION-LIBYA%20🇱🇾-008B8B?style=flat&logo=google-earth&logoColor=white&labelColor=0d1117" alt="Location" />
+    <img src="https://img.shields.io/badge/FOCUS-FITNESS%20%26%20DESIGN-00BFFF?style=flat&labelColor=0d1117" alt="Focus" />
+    <img src="https://img.shields.io/badge/MINDSET-NEVER%20STOP%20IMPROVING-00F2FE?style=flat&labelColor=0d1117" alt="Mindset" />
   </p>
 
-  <!-- عداد زوار بحواف ناعمة -->
+  <!-- عداد الزوار -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abdoabjja9-debug&label=Profile%20Views&color=00F2FE&style=flat" alt="Views" />
   </p>
@@ -49,7 +51,6 @@ My ultimate goal is to combine a healthy lifestyle with high-level skills to cre
 
 <div align="center">
 
-  <!-- تحويل جميع شارات التخصص إلى حواف ناعمة (Flat) -->
   <img src="https://img.shields.io/badge/💪_Fitness_%26_Nutrition-EB4D4B?style=flat" />
   <img src="https://img.shields.io/badge/🎨_Graphic_Design-FF6B6B?style=flat" />
   <img src="https://img.shields.io/badge/🎬_Motion_Graphics-9B51E0?style=flat" />
@@ -108,7 +109,6 @@ My ultimate goal is to combine a healthy lifestyle with high-level skills to cre
 
 <div align="center">
 
-  <!-- تم تفعيل خيار الحواف الناعمة (hide_border=false مع تعديل النمط الداخلي) في الإحصائيات -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdoabjja9-debug&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=00F2FE&icon_color=00F2FE" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoabjja9-debug&theme=tokyonight&hide_border=false&border_radius=10&ring=00F2FE&fire=00F2FE" />
 
