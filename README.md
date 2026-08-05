@@ -1,29 +1,34 @@
 <div align="center">
 
-  <!-- غلاف علوي مموج ومتحرك مع الاسم -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi%20There,%20I'm%20Abdulrahman%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
+  <!-- غلاف علوي احترافي بلمسة تقنية ورياضية -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F2FE&height=250&section=header&text=Hi%20There,%20I'm%20Abdulrahman%20👋&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Discipline.%20Design.%20Development.&descAlignY=55&descSize=16" width="100%" />
 
   <br>
 
-  <!-- النص المتحرك الملون (Typing Effect) -->
+  <!-- النص المتحرك الملون - الأولوية للياقة ثم التصميم -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Graphic+Design+%26+Brand+Building;Campaign+Marketing+Strategist;Learning+Python+%26+Automation;Building+Smart+Telegram+Bots;Content+Creator+%7C+Fitness" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=🏋️+Fitness+%26+Discipline+Enthusiast;🎨+Graphic+Design+%26+Brand+Building;📈+Campaign+Marketing+Strategist;💻+Python+%26+Automation;🤖+Building+Smart+Telegram+Bots" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- شعار فرعي بتنسيق برمجي أنيق -->
+  <!-- شعار فرعي يعكس العقلية -->
   <p align="center">
-    <code><b>⚡ Turning Ideas into Automated & Visual Reality ⚡</b></code>
+    <code><b>⚡ Strong Body, Creative Mind, Automated Future ⚡</b></code>
   </p>
 
   <br>
 
-  <!-- شارات الحالة السريعة (Quick Status Badges) -->
+  <!-- شارات الحالة السريعة بتركيز على الأولويات -->
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Libya%20🇱🇾-00F2FE?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Focus-Design%20%26%20Marketing-4FACFE?style=for-the-badge&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00F2FE?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Focus-Fitness%20%26%20Design-4FACFE?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Mindset-Never%20Stop%20Improving-00F2FE?style=for-the-badge&labelColor=0d1117" />
+  </p>
+
+  <!-- عداد زوار يضيف احترافية للملف -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abdoabjja9-debug&label=Profile%20Views&color=00F2FE&style=flat" alt="abdoabjja9-debug" />
   </p>
 
 </div>
@@ -34,11 +39,11 @@
 
 I'm **Abdulrahman** from Libya 🇱🇾.
 
-I'm building a long-term career around creativity, technology, business, and personal growth.
+I believe that everything starts with physical and mental discipline. **Fitness** is the foundation that fuels my energy for creativity and work.
 
-Currently, I'm focused on mastering Graphic Design while expanding my knowledge in digital marketing campaigns, Python automation, and branding.
+Currently, I'm channeling that discipline into mastering **Graphic Design**, while simultaneously building my expertise in **Campaign Marketing**, Python automation, and personal branding. 
 
-My goal is to create businesses, digital products, and content that solve real problems and make a lasting impact.
+My ultimate goal is to combine a healthy lifestyle with high-level skills to create digital products and marketing campaigns that make a lasting impact.
 
 ---
 
@@ -46,14 +51,18 @@ My goal is to create businesses, digital products, and content that solve real p
 
 <div align="center">
 
+  <!-- الصف الأول: اللياقة والتصميم (الأولويات) -->
+  <img src="https://img.shields.io/badge/💪_Fitness_%26_Nutrition-EB4D4B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎨_Graphic_Design-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎬_Motion_Graphics-9B51E0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍_Personal_Branding-25D366?style=for-the-badge" />
+  
+  <br>
+  
+  <!-- الصف الثاني: التسويق والبرمجة والتطوير المستمر -->
+  <img src="https://img.shields.io/badge/📈_Campaign_Marketing-FF9900?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖_AI_Tools-00F2FE?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/💻_Python_(Learning)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/📈_Campaign_Marketing-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍_Personal_Branding-25D366?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💪_Fitness_%26_Nutrition-EB4D4B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀_Entrepreneurship-F1C40F?style=for-the-badge&logoColor=black" />
 
 </div>
@@ -78,11 +87,11 @@ My goal is to create businesses, digital products, and content that solve real p
 
 | Status | Focus Area |
 | :---: | :--- |
-| ✅ | **Graphic Design Mastery** |
-| ✅ | **Building My Portfolio** |
+| ✅ | **Consistency in Fitness & Nutrition** |
+| ✅ | **Graphic Design Mastery & Portfolio** |
+| ✅ | **Strategic Campaign Marketing** |
+| ✅ | **Content Creation & Branding** |
 | ✅ | **Learning Python & Telegram Bots** |
-| ✅ | **Content Creation** |
-| ✅ | **Marketing Campaigns & Sales** |
 
 </div>
 
@@ -90,11 +99,11 @@ My goal is to create businesses, digital products, and content that solve real p
 
 ## 🌍 Long-Term Vision
 
-> ### I believe the future belongs to creators who combine:
+> ### I believe the true creators of the future combine:
 >
-> 🎨 **Design** &nbsp;&bull;&nbsp; 💻 **Technology** &nbsp;&bull;&nbsp; 📈 **Marketing** &nbsp;&bull;&nbsp; 🤖 **Artificial Intelligence** &nbsp;&bull;&nbsp; 🏋️ **Fitness**
+> 🏋️ **Fitness** &nbsp;&bull;&nbsp; 🎨 **Design** &nbsp;&bull;&nbsp; 📈 **Marketing** &nbsp;&bull;&nbsp; 💻 **Technology** &nbsp;&bull;&nbsp; 🤖 **AI**
 >
-> *into one powerful personal brand.*
+> *into one powerful, disciplined personal brand.*
 
 ---
 
@@ -111,7 +120,7 @@ My goal is to create businesses, digital products, and content that solve real p
 
 <div align="center">
 
-  ### ⭐ Never Stop Learning.
+  ### ⭐ Stay Disciplined. Stay Creative.
 
   *"Small improvements every day create extraordinary results."*
 
